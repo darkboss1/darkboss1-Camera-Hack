@@ -18,12 +18,7 @@ darkboss1-Camera-Hack is a reconnaissance tool designed to help researchers and 
 ✔️ **Enhanced Camera Detection** with detailed port analysis and brand identification  
 ✔️ **Live Stream Detection** for RTSP, RTMP, HTTP, and MMS protocols  
 ✔️ **Comprehensive IP & Location Information** with Google Maps/Earth links  
-✔️ **Multi-threaded Port Scanning** for faster results  
-✔️ **Enhanced Error Handling** and SSL support  
-✔️ **Detailed Camera Brand Detection** (Hikvision, Dahua, Axis, Sony, Bosch, Samsung, Panasonic, Vivotek)  
-✔️ **ONVIF Protocol Support** for standardized camera communication  
-✔️ **Smart Brute-force Protection** with rate limiting  
-✔️ **Detailed Port Analysis** showing server information and authentication types  
+ ✔️ And More
 
 ---
 
