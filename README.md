@@ -58,7 +58,7 @@ Enter the **public IP address** of the target device when prompted.
 4️⃣ Provides **manual search URLs** for deeper investigation  
 
 ---
-## 🙌 **Contributions**  
-Feel free to submit issues, suggestions, or pull requests!  
+## 🙌 **Contact**  
+Feel free to Contact Me:https://t.me/darkboss1bd
 
 <h4 align="center"> If you find this GitHub repo useful, please consider giving it a star! ⭐️ </h4> 
